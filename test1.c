@@ -1,0 +1,15 @@
+ubuntu
+fly 
+cola
+xshell
+school
+home
+desktop
+gift
+index
+ignore
+modification
+delete
+clash
+clash
+replace
