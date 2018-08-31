@@ -6,3 +6,5 @@ head
 filename
 differeent
 log
+gun
+red
